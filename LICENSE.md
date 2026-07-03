@@ -1,4 +1,4 @@
-# 
+# Novo JetBrains Rider ferramentas para Mac OS | Turbo JetBrains Rider ferramentas para PC Windows. Com scripts de teste e paleta de comandos — otimizado para máximo desempenho em cada plataforma.
 
 
 
